@@ -95,7 +95,8 @@ footer{
     text-align: center;
 }
 .help-titel{
-    font-size: 60px;
+    padding-top: 30px;
+    font-size: 40px;
     font-style: italic;
     color: #FF5959;
 }

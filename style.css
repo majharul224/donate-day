@@ -6,8 +6,8 @@
 .banner{
     background-image: url(images/donation1.jpg);
     background-repeat: no-repeat;
-   /* background-size: auto; */
-   background-size: 1400px 700px;
+  background-position: center;
+   background-size:cover;
    text-align: center;
    padding-bottom: 10%;
    padding-top: 10%;
@@ -31,5 +31,12 @@
     background-image: linear-gradient(orange, tomato);
     color: white;
     font-size: 25px;
-
+}
+.donate-today{
+    text-align: center;
+}
+.money{
+    display: flex;
+    /* justify-items: center; */
+   justify-content: space-evenly;
 }

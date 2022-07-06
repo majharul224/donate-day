@@ -63,6 +63,15 @@ section h1{
     padding-left: 25px;
     padding-top: 10px;
 }
+.information {
+   text-align: center;
+   
+}
+.information input{
+    margin-bottom: 15px;
+    height: 20px;
+    width: 350px;
+}
 .card-width img{
     height: 50px;
     width: 50px;

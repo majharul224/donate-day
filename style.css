@@ -79,11 +79,9 @@ section h1{
     padding-right: 250px;
 }
 .input-donate{
-    padding-top: 15px;
+    padding-top: 15px;   
 }
-#email-input{
-    align-items: center;
-}
+
 .card-info{
     display: flex;
     margin-top: 50px;

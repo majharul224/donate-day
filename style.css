@@ -1,7 +1,7 @@
 *{
     margin: 0;
-    padding-bottom: 50PX;
-    font-family: 'Poppins', sans-serif; 
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 20px; 
 }
 .banner{
     background-image: url(images/donation1.jpg);
@@ -34,8 +34,6 @@
 }
 .donate-today{
     text-align: center;
-    padding-top: 8%;
-
 }
 .donate-today h1{
     font-size: 50px;  
@@ -44,13 +42,11 @@
     display: flex;
    justify-content: space-evenly;
    color: #707070;
-   
- 
+   padding: 20px;
 }
 #money-color-tomato{
     border: 2px solid tomato;
     border-radius: 10px;
     color:#FF5959;
     padding: 20px;
- 
 }

@@ -57,11 +57,21 @@ section h1{
     display: flex;
     margin-top: 150px;
 }
+.card-width{
+    width: 25%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
 .half-width{
     width: 50%;
     padding-left: 5%;
     padding-right: 5%;
 }
-.food{
-
+.half-width img{ 
+    width: 80%;
+    border-radius: 20PX;
+}
+.donation{
+    display: flex;
+    margin-top: 15%;
 }

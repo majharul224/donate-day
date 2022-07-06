@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding-bottom: 150;
+    font-family: 'Poppins', sans-serif; 
+}
+.banner{
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+   /* background-size: auto; */
+   background-size: 1400px 700px;
+   text-align: center;
+   padding-bottom: 10%;
+   padding-top: 10%;
+}
+.banner-titel{
+   color: whitesmoke;
+   font-size: 50px;
+   font-weight: bold;
+}
+.banner p{
+    color: aliceblue;
+}
+.banner a{
+   text-decoration: none;
+   padding: 10px 40px;
+}
+.donate-button{
+    text-decoration: none;
+    padding: 10PX 40px ;
+    border-radius: 20PX;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-size: 25px;
+
+}

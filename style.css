@@ -21,6 +21,8 @@ section{
 }
 .banner p{
     color: aliceblue;
+    padding-left: 250px;
+    padding-right: 250px;
 }
 .donate-button{
    text-decoration: none;
@@ -35,8 +37,16 @@ section{
 .donate-today{
     text-align: center;
 }
+.donate-today p{
+padding-left: 250px;
+padding-right: 250px;
+}
 section h1{
     font-size: 50px;  
+}
+.our-dunate {
+    padding-left: 250px;
+    padding-right: 250px;
 }
 .money{
     display: flex;
@@ -44,7 +54,7 @@ section h1{
    color: #707070;
 }
 .input-style{
-    Width :275px;
+    Width :450px;
     height: 20px;
     margin-bottom: 20px;
     border: none;
@@ -53,12 +63,20 @@ section h1{
     padding-left: 25px;
     padding-top: 10px;
 }
+.card-width img{
+    height: 50px;
+    width: 50px;
+}
 #money-color-tomato{
     background-color: rgba(255, 127, 80, 0.626);
     border: 2px solid tomato;
     border-radius: 10px;
     color:#FF5959;
     padding: 10px 20px;
+}
+.donate-updats {
+    padding-left: 250px;
+    padding-right: 250px;
 }
 .input-donate{
     padding-top: 15px;
